@@ -2,7 +2,6 @@
  * Created by Administrator on 2019/7/28.
  */
 import React from 'react'
-import './menu.css'
 import * as THREE  from 'three';
 
 let renderer,width,height;

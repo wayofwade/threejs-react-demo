@@ -1,3 +1,4 @@
+// 暂时用不到此文件
 export default {
     menus: [ // 菜单相关路由
         { key: '/app/dashboard/index', title: '首页', icon: 'mobile', component: 'Dashboard' },

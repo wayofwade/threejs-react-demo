@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import myMenu from './components/menu/index.js'
-import Index from './components/menu/menu.js'
+import myMenu from './components/menu/complexDemo.js'
+import Index from './components/menu/index.js'
 import Cube from './components/menu/Cube.js'
 import Ball from './components/menu/Ball.js'
 import MoveCube from './components/menu/MoveCube.js'

@@ -3,7 +3,6 @@
  */
 import React from 'react'
 import { Layout, Menu, Icon, Breadcrumb } from 'antd';
-import './menu.css'
 import * as THREE  from 'three';
 const { Content } = Layout;
 
